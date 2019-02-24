@@ -1,0 +1,13 @@
+.gallary-images img{
+	float: left;
+	margin: 25px;
+	width: 250px;
+	height: 200px;
+}
+.btn:hover{
+	background-color: pink;
+	border: 1px solid pink;
+	color: black;
+	transition: ease;
+	transition-delay: 1 "sec";
+}
